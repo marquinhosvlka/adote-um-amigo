@@ -57,9 +57,10 @@ export default {
 <style scoped>
 .logo {
     width: 100%;
-    max-width: 1300px;
+    max-width: 700px;
     height: auto;
     border-radius: 10px;
+
 }
 
 .fixed-height-card {
