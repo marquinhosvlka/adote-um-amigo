@@ -61,6 +61,7 @@ export default {
     max-width: 700px;
     height: auto;
     border-radius: 10px;
+
 }
 
 .fixed-height-card {
@@ -76,7 +77,7 @@ export default {
 .form-control {
     background-color: white;
     color: black;
-    border: 1px solid black; 
+    border: 1px solid black;
 }
 
 .btn-primary {
@@ -98,9 +99,10 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 label {
-    display: block; 
-    text-align: left; 
+    display: block;
+    text-align: left;
     margin-bottom: 1px;
 }
 </style>
